@@ -1,6 +1,10 @@
 # Exam-Portal-Application
-The objective of an online examination portal is to provide an efficient and cost-effective platform for students to take exams remotely from any location with internet connectivity. The system aims to offer flexibility, accessibility, and efficiency in scheduling and grading exams while providing instant feedback to students. **
+The objective of an online examination portal is to provide an efficient and cost-effective platform for students to take exams remotely from any location with internet connectivity. The system aims to offer flexibility, accessibility, and efficiency in scheduling and grading exams while providing instant feedback to students.
+
+
 Technology Used:
+
+
 Front-end:
 Angular: A well-liked front-end programming framework called Angular is used to create
 dynamic web applications. Angular is a sophisticated framework created and maintained by
@@ -14,6 +18,7 @@ functions such as color, font, alignment, margin, and padding.
 TypeScript: TypeScript is a programming language and an open-source superset of
 JavaScript that adds optional static typing and class-based object-oriented programming
 (OOP) features to JavaScript.
+
 
 Back-end:
 Spring Boot: A well-liked open-source framework called Spring Boot is used to create Java
